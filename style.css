@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(23, 25, 33);
+    color: rgb(228, 221, 192);
+    font-family: "Cambria";
+    font-size: 20px;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    background-color: rgb(255, 222, 92);
+}
+
+#dont-talk-about-this {
+    font-size: 18px;
+    font-style: italic;
+    font-family:"Times New Roman";
+    color: rgb(255, 80, 80);
+}
+
+table {
+    border: 2px solid rgb(255, 222, 92);
+}
